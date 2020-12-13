@@ -1,0 +1,5 @@
+{
+    "require": {
+        "misbah/money-in-words": "^1.3"
+    }
+}
