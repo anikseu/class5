@@ -44,7 +44,7 @@ Divison Search:
 <input type="submit">
 </form> 
 
-<br><br> 
+<br><br> <BR><BR>
 
 Number to Words in Money: 
 <form action = "" method = "POST"> 
